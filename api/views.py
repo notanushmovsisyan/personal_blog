@@ -14,4 +14,3 @@ class BlogPostRetrieveUpdateDestroy(generics.RetrieveUpdateDestroyAPIView):
     lookup_field = "pk"
 
 
-
